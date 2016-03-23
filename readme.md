@@ -1,5 +1,5 @@
 #discription
-在TopProgressBarWebViewDemo中用到了的WebView,这次是测试WebIView和js的交互的测试!
+WebView和 javascript 的交互简单测试！
 
 
 #Screenshot
